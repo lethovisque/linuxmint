@@ -1,0 +1,9 @@
+Objetivo da aula de hoje: 24/11/2025 PROJETO NOTEBOOK
+
+#01_ Material das aulas de GNU/Linux Desktop
+https://github.com/vaamonde/dell-linuxmint
+
+#02_ Material da Instalação e Configuração do Linux Mint no Notebook Itautec Infoway N8645
+https://github.com/vaamonde/dell-linuxmint/blob/master/07-Itautec-Infoway-N8645.md
+
+#03_ CUIDADO: ANTES DE INSTALAR O LINUX MINT NO NOTEBOOK ITAUTEC SERÁ FEITO A LIMPEZA DE TODAS AS PARTIÇÕES UTILIZANDO O COMANDO GPARTED, ESSE PROCEDIMENTO SERÁ MOSTRADO EM AULA, AGUARDE!!!!!!!
